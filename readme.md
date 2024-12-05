@@ -1,4 +1,4 @@
-eChart中国全国省市区geo地图数据
+eCharts中国全国省市区geo地图数据
 ===
 
 1. 所有地图都是我自己收集的,80%通过汇总多个来自于阿里的DataV.GeoAiIas的开源map项目,剩下20%(如港澳及部分地区的区县数据)是人肉在阿里http://datav.aliyun.com/portal/school/atlas/area_selector 自己下载补充的, 总共424个json文件(可能还会补充);
